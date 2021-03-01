@@ -106,6 +106,9 @@
             &:nth-child(3) {
                 bottom: 0;
             }
+	    &:hover {
+		color: #979797;	    
+	    }
         }
         &._active-btn {
             & span {
