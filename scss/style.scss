@@ -160,10 +160,7 @@
         transition: 1.5s 0.3s;
         & li {
             min-width: 150px;
-            padding-bottom: 30px;
-	     &:hover {
-		color: #a1a1a1;	    
-	     }		
+            padding-bottom: 30px;		
         }
         &._active-btn {
            left: 57px;
