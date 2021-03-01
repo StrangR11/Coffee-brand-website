@@ -106,9 +106,6 @@
             &:nth-child(3) {
                 bottom: 0;
             }
-	    &:hover {
-		color: #979797;	    
-	    }
         }
         &._active-btn {
             & span {
@@ -164,6 +161,9 @@
         & li {
             min-width: 150px;
             padding-bottom: 30px;
+	    &:hover {
+		color: #a1a1a1;	    
+	    }		
         }
         &._active-btn {
            left: 57px;
