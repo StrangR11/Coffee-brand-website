@@ -67,7 +67,7 @@ new Swiper('.combo-slider', {
 
 	observer: true,
 	observeParents: true,
-	slidesPerView: 3,
+	slidesPerView: 1,
 	spaceBetween: 30,
 	autoHeight: true,
 	speed: 1100,
@@ -125,7 +125,7 @@ new Swiper('.chuan-slider', {
 
 	observer: true,
 	observeParents: true,
-	slidesPerView: 2,
+	slidesPerView: 1,
 	spaceBetween: 30,
 	autoHeight: true,
 	speed: 1900,
